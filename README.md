@@ -92,7 +92,7 @@ La aplicación estará accesible en http://localhost:8080.
 
 ```
 
-##Eliminar Usuario por ID
+## Eliminar Usuario por ID
 - Método: DELETE
 - URL: http://localhost:8080/user/{id}
 
